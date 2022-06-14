@@ -1,2 +1,2 @@
 # Pagina-Inicial-Instagram
-Estrutura HTML/CSS que simula a página inical do instagram.
+Estrutura HTML/CSS que simula a página inicial do instagram.
